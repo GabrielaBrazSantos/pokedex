@@ -1,3 +1,7 @@
+<picture>  
+  <img alt="Pokedex - Gabriela" src="https://github.com/GabrielaBrazSantos/pokedex/blob/main/assets/img/pokemons.JPG" heigth="50%">
+</picture>
+
 # Integração da POKE-API com Node.js: Página Web com HTML5, CSS3 e JavaScript
 
 ## Objetivo
