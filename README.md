@@ -37,9 +37,8 @@ Estrutura padrão de html 5, utilizamos a fonte Roboto e configurações para re
 ### 4. Estilização CSS3
 Estilização da listagem para colorir e exibir com designer interessante os dados de cada Pokemon.
 ## Testando
-
 1. Instale as dependências: do Node e NPM para criação de servidor virtual para exibição da página.
-2. 2. Inicie o servidor:
+2. Inicie o servidor:
 3. Acesse `http://localhost:3000` no navegador e veja a listagem dos Pokémons de forma.
 4. Divirta-se!
 ---
